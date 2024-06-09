@@ -24,7 +24,8 @@ DeepSpeech is an open-source Speech-To-Text engine, using a model trained by mac
 
 Documentation for installation, usage, and training models are available on [deepspeech.readthedocs.io].
 For the trained model, language model, scorer file, and checkpoints, you can check the data/data61 folder. Also, in this folder, you can find preprocessing data, a CSV file for training, and audio files for Warsh narration of the Quran containing 4 reciters. 
-results : 
+Results :
+==================
 Dataset  for chaptre(hizb) 60th + fatiha WER: 0.148515, CER: 0.083203, validation loss: 51.262039
 
 For the latest release, including pre-trained models and checkpoints, `see the latest release on GitHub <https://github.com/mozilla/DeepSpeech/releases/latest>`_.
